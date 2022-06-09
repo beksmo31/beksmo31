@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Beksultan
 - 👀 I’m interested in GoLang
 - 🌱 I’m currently learning GoLang
-- 📫 How to reach me @beksmo31 telegram
+- 📫 How to reach me @beksmo03 telegram
 
 <!---
 beksmo31/beksmo31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
